@@ -7,6 +7,10 @@ Hi 👋 My name is demonssv
 * 🤝  I'm open to collaborating on AI and ML projects
 * ⚡  "Be yourself becz there's no one better"
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### Skills
 
 
