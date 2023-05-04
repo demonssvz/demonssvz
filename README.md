@@ -38,9 +38,9 @@ Hi 👋 My name is demonssv
 ### Badges
 
 <b>My GitHub Stats</b>
+<div>
 
 <a href="http://www.github.com/demonssvz"><img src="https://github-readme-stats.vercel.app/api?username=demonssvz&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="demonssvz's GitHub stats" /></a>
-
-<a href="http://www.github.com/demonssvz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=demonssvz&stroke=3382ed&background=000000&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
+ <a href="http://www.github.com/demonssvz" style="margin: 20 auto;margin-left: 10px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=demonssvz&stroke=3382ed&background=000000&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+</div>
 <a href="http://www.github.com/demonssvz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=demonssvz&bg_color=000000&color=3382ed&line=ffffff&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
