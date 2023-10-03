@@ -30,7 +30,7 @@ Hi 👋 My name is demonssv
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
 
-
+[![An image of @demonssv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/demonssv)](https://holopin.io/@demonssv)
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/demonssvz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
