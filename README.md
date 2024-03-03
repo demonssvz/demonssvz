@@ -42,17 +42,16 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
 </div>
 
+
+<h2 align="center"> </h2>
+
 ###
 
 <br clear="both">
 
 
 
-###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=demonssvz.demonssvz&"  />
-
-###
 
 <br clear="both">
 
@@ -61,6 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=demonssvz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=demonssvz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=demonssvz.demonssvz&"  />
+
+###
 
 ###
 
