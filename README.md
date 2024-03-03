@@ -1,12 +1,13 @@
 <h1 align="center"> Hey Fam ,👋 demonssv here !!</h1>
 
+* 🌍  I'm based in Bangalore
+* 🤝  I'm open to collaborating on AI and ML projects
+* ⚡  "Be yourself becz there's no one better"
 
-
-###
-
-<img src="https://raw.githubusercontent.com/demonssvz/demonssvz/output/snake.svg" alt="Snake animation" />
-
-###
+<h2 align="center"> Catch up here... </h2>
+<div align="center">
+  <img height="205" src="https://decider.com/wp-content/uploads/2018/12/baki-3.jpg?quality=75&strip=all&w=1200"  />
+</div>
 
 <br clear="both">
 
@@ -45,9 +46,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="205" src="https://decider.com/wp-content/uploads/2018/12/baki-3.jpg?quality=75&strip=all&w=1200"  />
-</div>
+
 
 ###
 
