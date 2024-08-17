@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Bangalore
 * 🤝  I'm open to collaborating on AI and ML projects
-* ⚡  "Be yourself becz there's no one better"
+* ⚡  "If you haven't got anything nice to say about anybody, come sit next to me"
 
 <h2 align="center"> Catch up here... </h2>
 <div align="center">
