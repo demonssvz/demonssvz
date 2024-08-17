@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Bangalore
 * 🤝  I'm open to collaborating on AI and ML projects
-* ⚡  "If you haven't got anything nice to say about anybody, come sit next to me"
+* ⚡  "Growing up is Overrated"
 
 <h2 align="center"> Catch up here... </h2>
 <div align="center">
